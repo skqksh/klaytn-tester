@@ -24,7 +24,7 @@
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.18.2",
     "lodash": "^4.17.15",
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "nodemon": "^1.19.4"
   }
 }
